@@ -17,3 +17,6 @@ userPreferences.*/
 .DS_Store
 ehthumbs.db
 Thumbs.db
+/Resources/en.lproj
+Project/Sources/Methods/Compiler_Variables.4dm
+Project/Sources/Methods/Compiler_Methods.4dm
