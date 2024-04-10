@@ -15,7 +15,7 @@ End if
 ASSERT($BinFolder.create(); "Cannot create $BinFolder")
 
 var $Component : cs.Build4D.Component:=cs.Build4D.Component.new({\
-buildName: "System"; \
+buildName: "4D-Xamarin"; \
 destinationFolder: $BinFolder; \
 packedProject: True})
 ASSERT($Component.build(); "Build Failed - Check $Logs")
